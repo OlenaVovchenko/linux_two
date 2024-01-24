@@ -1,0 +1,4 @@
+     UID     PID    PPID  TTY        STIME COMMAND
+   olena    1237    1236 pty0     09:46:37 /usr/bin/bash
+   olena    1374    1237 pty0     11:59:38 /usr/bin/ps
+   olena    1236       1 ?        09:46:37 /usr/bin/mintty
